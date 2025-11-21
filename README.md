@@ -13,7 +13,7 @@ My work focuses on:
 - Clean, maintainable code with best practices
 - Unit testing & automated testing pipelines
 
-## 🛠️ Skills & Technologies  
+## Skills & Technologies  
 
 ### **Frontend**
 - Angular 8–20  
